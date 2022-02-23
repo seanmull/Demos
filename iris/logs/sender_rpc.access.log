@@ -1,0 +1,68 @@
+2022-02-16 09:43:32,301 INFO ('127.0.0.1', 33190) v0/send
+2022-02-16 09:43:32,304 INFO ('127.0.0.1', 33194) v0/send
+2022-02-16 09:43:32,314 INFO ('127.0.0.1', 33206) v0/send
+2022-02-16 09:43:32,315 INFO -> ('127.0.0.1', 33206) OK, to user:demo (Autoalerts:low)
+2022-02-16 09:43:32,319 INFO ('127.0.0.1', 33210) v0/send
+2022-02-16 09:43:32,319 INFO -> ('127.0.0.1', 33210) OK, to user:demo (Autoalerts:low)
+2022-02-16 09:43:32,323 INFO ('127.0.0.1', 33214) v0/send
+2022-02-16 09:43:32,323 INFO -> ('127.0.0.1', 33214) OK, to user:demo (Autoalerts:low)
+2022-02-16 09:43:32,327 INFO ('127.0.0.1', 33218) v0/send
+2022-02-16 09:43:32,327 INFO -> ('127.0.0.1', 33218) OK, to literal_target:sample_mailinglist@email.com (Autoalerts:email)
+2022-02-16 09:43:32,330 INFO ('127.0.0.1', 33222) v0/send
+2022-02-16 09:43:32,330 INFO -> ('127.0.0.1', 33222) OK, to literal_target:foobar@example.com (Autoalerts:email)
+2022-02-16 09:43:32,333 INFO ('127.0.0.1', 33226) v0/send
+2022-02-16 09:43:32,333 INFO -> ('127.0.0.1', 33226) OK, to literal_target:foobar@example.com (Autoalerts:email)
+2022-02-16 09:43:32,336 INFO ('127.0.0.1', 33230) v0/send
+2022-02-16 09:43:32,336 INFO -> ('127.0.0.1', 33230) OK, to user:demo (Autoalerts:email)
+2022-02-16 09:46:23,513 INFO ('127.0.0.1', 34050) v0/send
+2022-02-16 09:46:23,516 INFO ('127.0.0.1', 34054) v0/send
+2022-02-16 09:46:23,528 INFO ('127.0.0.1', 34066) v0/send
+2022-02-16 09:46:23,528 INFO -> ('127.0.0.1', 34066) OK, to user:demo (Autoalerts:low)
+2022-02-16 09:46:23,531 INFO ('127.0.0.1', 34070) v0/send
+2022-02-16 09:46:23,532 INFO -> ('127.0.0.1', 34070) OK, to user:demo (Autoalerts:low)
+2022-02-16 09:46:23,535 INFO ('127.0.0.1', 34074) v0/send
+2022-02-16 09:46:23,535 INFO -> ('127.0.0.1', 34074) OK, to user:demo (Autoalerts:low)
+2022-02-16 09:46:23,539 INFO ('127.0.0.1', 34078) v0/send
+2022-02-16 09:46:23,539 INFO -> ('127.0.0.1', 34078) OK, to literal_target:sample_mailinglist@email.com (Autoalerts:email)
+2022-02-16 09:46:23,541 INFO ('127.0.0.1', 34082) v0/send
+2022-02-16 09:46:23,541 INFO -> ('127.0.0.1', 34082) OK, to literal_target:foobar@example.com (Autoalerts:email)
+2022-02-16 09:46:23,545 INFO ('127.0.0.1', 34086) v0/send
+2022-02-16 09:46:23,545 INFO -> ('127.0.0.1', 34086) OK, to literal_target:foobar@example.com (Autoalerts:email)
+2022-02-16 09:46:23,548 INFO ('127.0.0.1', 34090) v0/send
+2022-02-16 09:46:23,548 INFO -> ('127.0.0.1', 34090) OK, to user:demo (Autoalerts:email)
+2022-02-16 09:46:24,666 INFO ('127.0.0.1', 34408) v0/send
+2022-02-16 09:46:24,666 INFO -> ('127.0.0.1', 34408) OK, to user:demo (Autoalerts:?)
+2022-02-16 14:22:48,471 INFO ('127.0.0.1', 50870) v0/send
+2022-02-16 14:22:48,474 INFO ('127.0.0.1', 50874) v0/send
+2022-02-16 14:22:48,485 INFO ('127.0.0.1', 50886) v0/send
+2022-02-16 14:22:48,485 INFO -> ('127.0.0.1', 50886) OK, to user:demo (Autoalerts:low)
+2022-02-16 14:22:48,489 INFO ('127.0.0.1', 50890) v0/send
+2022-02-16 14:22:48,489 INFO -> ('127.0.0.1', 50890) OK, to user:demo (Autoalerts:low)
+2022-02-16 14:22:48,493 INFO ('127.0.0.1', 50894) v0/send
+2022-02-16 14:22:48,493 INFO -> ('127.0.0.1', 50894) OK, to user:demo (Autoalerts:low)
+2022-02-16 14:22:48,496 INFO ('127.0.0.1', 50898) v0/send
+2022-02-16 14:22:48,496 INFO -> ('127.0.0.1', 50898) OK, to literal_target:sample_mailinglist@email.com (Autoalerts:email)
+2022-02-16 14:22:48,499 INFO ('127.0.0.1', 50902) v0/send
+2022-02-16 14:22:48,499 INFO -> ('127.0.0.1', 50902) OK, to literal_target:foobar@example.com (Autoalerts:email)
+2022-02-16 14:22:48,503 INFO ('127.0.0.1', 50906) v0/send
+2022-02-16 14:22:48,503 INFO -> ('127.0.0.1', 50906) OK, to literal_target:foobar@example.com (Autoalerts:email)
+2022-02-16 14:22:48,506 INFO ('127.0.0.1', 50910) v0/send
+2022-02-16 14:22:48,506 INFO -> ('127.0.0.1', 50910) OK, to user:demo (Autoalerts:email)
+2022-02-16 14:22:49,672 INFO ('127.0.0.1', 51228) v0/send
+2022-02-16 14:22:49,673 INFO -> ('127.0.0.1', 51228) OK, to user:demo (Autoalerts:?)
+2022-02-16 14:24:30,282 INFO ('127.0.0.1', 51678) v0/send
+2022-02-16 14:24:30,285 INFO ('127.0.0.1', 51682) v0/send
+2022-02-16 14:24:30,294 INFO ('127.0.0.1', 51694) v0/send
+2022-02-16 14:24:30,294 INFO -> ('127.0.0.1', 51694) OK, to user:demo (Autoalerts:low)
+2022-02-16 14:24:30,298 INFO ('127.0.0.1', 51698) v0/send
+2022-02-16 14:24:30,298 INFO -> ('127.0.0.1', 51698) OK, to user:demo (Autoalerts:low)
+2022-02-16 14:24:30,301 INFO ('127.0.0.1', 51702) v0/send
+2022-02-16 14:24:30,301 INFO -> ('127.0.0.1', 51702) OK, to user:demo (Autoalerts:low)
+2022-02-16 14:24:30,304 INFO ('127.0.0.1', 51706) v0/send
+2022-02-16 14:24:30,304 INFO -> ('127.0.0.1', 51706) OK, to literal_target:sample_mailinglist@email.com (Autoalerts:email)
+2022-02-16 14:24:30,306 INFO ('127.0.0.1', 51710) v0/send
+2022-02-16 14:24:30,306 INFO -> ('127.0.0.1', 51710) OK, to literal_target:foobar@example.com (Autoalerts:email)
+2022-02-16 14:24:30,310 INFO ('127.0.0.1', 51714) v0/send
+2022-02-16 14:24:30,310 INFO -> ('127.0.0.1', 51714) OK, to literal_target:foobar@example.com (Autoalerts:email)
+2022-02-16 14:24:30,312 INFO ('127.0.0.1', 51718) v0/send
+2022-02-16 14:24:30,313 INFO -> ('127.0.0.1', 51718) OK, to user:demo (Autoalerts:email)
